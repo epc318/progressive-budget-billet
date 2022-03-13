@@ -1,6 +1,7 @@
 # Progressive Budget Billet
   
 ## Description
+This repository contain the partial, almost complete, script of a budget tracker progressive web application. Ultimately this application is designed to track the users budget on the fly, however, it is still in develpment.
 
 ## User Story
 * AS AN avid traveler
@@ -19,19 +20,20 @@
 
 ## Built With
 * JavaScript
+* HTML
+* CSS
 
 ## Source Code Screenshot
-![Source Code Example]()
+![Source Code Example](public/imgs/sourcecode.png)
 
 
 ## Usage
-
-
-This application is deployed to Heroku [Here]() : However, due to either routing or port issue, it does not work.
+This application is deployed to Heroku [Here](https://progressive-budget-billet.herokuapp.com/) : However, it doesn not work due to incompletion
 
 ## Contribution
 - This project was made by Evan Carlson and contains references and material learned in the University of Minnesota Web Dev Bootcamp.
-- 
+
+- The starter code repository, made by [Xandromus](https://github.com/Xandromus), can be accessed [HERE](https://github.com/coding-boot-camp/symmetrical-bassoon)
 
 Since this app is not fully functional, contribution ARE being accepted at this time. Please refer to section below for contact information.
 
