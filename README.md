@@ -41,4 +41,4 @@ Since this app is not fully functional, contribution ARE being accepted at this 
 If you have any questions on this application, feel free to reach me through my GitHub profile [epc318](https://github.com/epc318) or [E-mail](carl4917@umn.edu):
 
 
-### ©️2022  Profession Pointers, Inc.
+### ©️2022  Budget Bears, Inc.
